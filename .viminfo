@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1662570574,,"wq"
+|2,0,1662648323,,"wq"
 :#!/bin/bash
 |2,0,1662198871,,"#!/bin/bash"
 :q!
@@ -32,39 +32,75 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+"-	CHAR	0
 	e
-|3,1,36,0,1,0,1661348105,"e"
+|3,0,36,0,1,0,1661348105,"e"
 
 # File marks:
-'0  1  0  /alx-zero_day/.git/MERGE_MSG
-|4,48,1,0,1662570574,"/alx-zero_day/.git/MERGE_MSG"
-'1  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
-|4,49,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
-'2  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,50,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
-'3  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
-|4,51,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
-'4  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,52,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
-'5  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,53,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
-'6  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,54,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
-'7  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,55,1,11,1662427521,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
-'8  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,56,2,0,1662427521,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
-'9  1  47  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,57,1,47,1662383697,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
+'0  1  0  /alx-low_level_programming/.git/COMMIT_EDITMSG
+|4,48,1,0,1662648323,"/alx-low_level_programming/.git/COMMIT_EDITMSG"
+'1  1  31  /alx-low_level_programming/0x00-hello_world/README.md
+|4,49,1,31,1662647584,"/alx-low_level_programming/0x00-hello_world/README.md"
+'2  1  0  /alx-zero_day/.git/MERGE_MSG
+|4,50,1,0,1662570574,"/alx-zero_day/.git/MERGE_MSG"
+'3  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,51,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+'4  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,52,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+'5  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,53,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+'6  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,54,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+'7  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,55,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+'8  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
+|4,56,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
+'9  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
+|4,57,1,11,1662427521,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
 
 # Jumplist (newest first):
+-'  1  0  /alx-low_level_programming/.git/COMMIT_EDITMSG
+|4,39,1,0,1662648323,"/alx-low_level_programming/.git/COMMIT_EDITMSG"
+-'  1  31  /alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,31,1662647584,"/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  31  /alx-low_level_programming/0x00-hello_world/README.md
+|4,39,1,31,1662647584,"/alx-low_level_programming/0x00-hello_world/README.md"
+-'  1  0  /alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1662570574,"/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  /alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1662570574,"/alx-zero_day/.git/MERGE_MSG"
+-'  1  0  /alx-zero_day/.git/MERGE_MSG
+|4,39,1,0,1662570574,"/alx-zero_day/.git/MERGE_MSG"
 -'  1  0  /alx-zero_day/.git/MERGE_MSG
 |4,39,1,0,1662570574,"/alx-zero_day/.git/MERGE_MSG"
 -'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
 |4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
 -'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
 |4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  2  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,2,0,1662434401,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
+-'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
+|4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
 -'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
 |4,39,1,0,1662434376,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you"
 -'  1  0  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
@@ -77,6 +113,78 @@
 |4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
 -'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
 |4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
+|4,39,1,0,1662434282,"~/alx-system_engineering-devops/.git/MERGE_MSG"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
 -'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
 |4,39,2,0,1662430444,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
 -'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
@@ -109,158 +217,61 @@
 |4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
 -'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
 |4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  7  5  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,7,5,1662430227,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1662430186,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  2  34  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,2,34,1662428316,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
--'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly
-|4,39,1,11,1662428269,"~/alx-system_engineering-devops/0x02-shell_redirections/18-letteronly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly
+|4,39,1,0,1662430414,"~/alx-system_engineering-devops/0x02-shell_redirections/18-lettersonly"
 
 # History of marks within files (newest to oldest):
+
+> /alx-low_level_programming/.git/COMMIT_EDITMSG
+	*	1662648318	0
+	"	1	0
+
+> /alx-low_level_programming/0x00-hello_world/README.md
+	*	1662647580	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	31
 
 > /alx-zero_day/.git/MERGE_MSG
 	*	1662570569	0
